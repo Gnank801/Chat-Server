@@ -1,8 +1,8 @@
-# Chat Server Assignment
+# Chat Server
 
 ## Introduction
 
-This assignment challenged us to build a lightweight chat server that allows multiple users to connect and interact in real time. Our server supports user authentication, broadcast messages, private messages, and group chats. Throughout this project, we learned a lot about socket programming, multithreading, and the importance of careful design decisions.
+This project challenged us to build a lightweight chat server that allows multiple users to connect and interact in real time. Our server supports user authentication, broadcast messages, private messages, and group chats. Throughout this project, we learned a lot about socket programming, multithreading, and the importance of careful design decisions.
 
 ## Features
 
@@ -262,5 +262,5 @@ We hereby declare that this project is our original work, and we have not engage
 
 ## Feedback
 
-Working on this assignment was a unique learning experience. We enjoyed the challenge of building a multithreaded chat server from scratch, and it let us valuable lessons about design, synchronization, and debugging. For future assignments, more detailed stress testing guidelines would be helpful.
+Working on this project was a unique learning experience. We enjoyed the challenge of building a multithreaded chat server from scratch, and it let us valuable lessons about design, synchronization, and debugging. For future projects, more detailed stress testing guidelines would be helpful.
 
